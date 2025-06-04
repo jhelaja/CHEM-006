@@ -1,0 +1,16 @@
+%chk=CO2_q0_m1_1
+%mem=1GB
+#b3lyp/sto-3g 
+opt=(cartesian,maxcycle=100,calcall,noraman) 
+temperature=298
+IOP(2/17=4) 
+
+ts search
+
+0 1
+C 0.000213 0.078602 0.000000
+O 0.000213 0.243575 1.215182
+O 0.000213 0.243575 -1.215182
+ 
+
+

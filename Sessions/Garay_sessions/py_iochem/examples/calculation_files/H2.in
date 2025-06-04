@@ -1,0 +1,15 @@
+%chk=H2_q0_m1_1
+%mem=1GB
+#b3lyp/sto-3g 
+opt=(calcall,noraman) 
+temperature=298
+IOP(2/17=4) 
+
+ts search
+
+0 1
+H -0.366592 -2.183965 0.000000
+H 0.361901 -2.184853 0.000000
+ 
+
+

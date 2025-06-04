@@ -1,0 +1,924 @@
+awardYear,gender,birth_continent,category,awardDecade
+2001,male,North America,Economic Sciences,2000
+1975,male,Europe,Physics,1970
+2004,male,Asia,Chemistry,2000
+1982,male,Europe,Chemistry,1980
+1979,male,Asia,Physics,1970
+2019,male,Asia,Economic Sciences,2010
+2019,male,Africa,Peace,2010
+2009,female,Asia,Chemistry,2000
+2011,male,North America,Physics,2010
+1939,male,Europe,Chemistry,1930
+1905,male,Europe,Chemistry,1900
+1928,male,Europe,Chemistry,1920
+1980,male,South America,Peace,1980
+1999,male,Africa,Chemistry,1990
+2010,male,Asia,Chemistry,2010
+2019,male,Asia,Chemistry,2010
+2007,male,North America,Peace,2000
+2000,male,North America,Chemistry,2000
+1963,male,Europe,Physiology or Medicine,1960
+2000,male,Oceania,Chemistry,2000
+1907,male,Europe,Physics,1900
+1957,male,Africa,Literature,1950
+1974,male,Europe,Physiology or Medicine,1970
+1921,male,Europe,Physics,1920
+2007,male,Europe,Physics,2000
+1902,male,Europe,Peace,1900
+1960,male,Africa,Peace,1960
+1952,male,Europe,Peace,1950
+1937,male,Europe,Physiology or Medicine,1930
+1910,male,Europe,Physiology or Medicine,1910
+1964,male,Oceania,Physics,1960
+1970,male,Europe,Literature,1970
+2003,male,Europe,Physics,2000
+1912,male,Europe,Physiology or Medicine,1910
+1982,male,North America,Peace,1980
+1969,male,North America,Physiology or Medicine,1960
+1911,male,Europe,Peace,1910
+1994,male,North America,Physiology or Medicine,1990
+1966,male,Europe,Physics,1960
+1913,male,Europe,Chemistry,1910
+2013,female,North America,Literature,2010
+1979,male,Africa,Physiology or Medicine,1970
+1911,male,Europe,Physiology or Medicine,1910
+1907,male,Europe,Physiology or Medicine,1900
+1982,female,Europe,Peace,1980
+2012,male,North America,Economic Sciences,2010
+1998,male,Asia,Economic Sciences,1990
+1921,male,Europe,Literature,1920
+1956,male,Europe,Physiology or Medicine,1950
+2010,male,Europe,Physics,2010
+1947,male,Europe,Literature,1940
+1965,male,Europe,Physiology or Medicine,1960
+1975,male,Europe,Peace,1970
+1963,male,Europe,Physiology or Medicine,1960
+1977,male,Europe,Physiology or Medicine,1970
+2006,male,North America,Physiology or Medicine,2000
+2015,male,Europe,Economic Sciences,2010
+2003,male,Europe,Physics,2000
+1974,male,Europe,Physics,1970
+1978,male,Africa,Peace,1970
+1952,male,Europe,Chemistry,1950
+1922,male,Europe,Physiology or Medicine,1920
+2013,male,Asia,Chemistry,2010
+1926,male,Europe,Peace,1920
+1948,male,Europe,Chemistry,1940
+1978,male,Europe,Physics,1970
+2018,male,North America,Physics,2010
+2015,male,North America,Physics,2010
+1927,male,North America,Physics,1920
+1929,male,Europe,Chemistry,1920
+1934,male,Europe,Peace,1930
+1959,male,North America,Physiology or Medicine,1950
+1981,male,North America,Physics,1980
+1945,male,Europe,Chemistry,1940
+2000,male,Europe,Physiology or Medicine,2000
+1920,male,Europe,Physiology or Medicine,1920
+1909,male,Europe,Peace,1900
+1991,female,Asia,Peace,1990
+2004,male,Europe,Chemistry,2000
+2015,male,Asia,Chemistry,2010
+2009,male,North America,Peace,2000
+1983,female,North America,Physiology or Medicine,1980
+2017,male,North America,Physics,2010
+2005,male,Oceania,Physiology or Medicine,2000
+2001,male,North America,Chemistry,2000
+1976,male,North America,Physiology or Medicine,1970
+1980,male,South America,Physiology or Medicine,1980
+1975,male,North America,Physics,1970
+2016,male,Europe,Economic Sciences,2010
+1982,male,Europe,Physiology or Medicine,1980
+2016,male,Europe,Chemistry,2010
+1947,male,South America,Physiology or Medicine,1940
+1991,male,Europe,Physiology or Medicine,1990
+1905,female,Europe,Peace,1900
+1977,male,Europe,Economic Sciences,1970
+1994,male,North America,Physics,1990
+1950,male,Europe,Literature,1950
+1976,female,Europe,Peace,1970
+1903,male,Europe,Literature,1900
+2016,male,North America,Literature,2010
+1958,male,Europe,Literature,1950
+1973,male,Europe,Physics,1970
+2012,male,North America,Chemistry,2010
+2011,male,North America,Physics,2010
+2011,male,North America,Physiology or Medicine,2010
+1984,male,North America,Chemistry,1980
+1976,male,North America,Physics,1970
+1927,male,Europe,Physics,1920
+1906,male,Europe,Physiology or Medicine,1900
+1989,male,Europe,Literature,1980
+1931,male,Europe,Chemistry,1930
+1947,male,Europe,Physiology or Medicine,1940
+1936,male,North America,Physics,1930
+1919,male,Europe,Literature,1910
+1935,male,Europe,Peace,1930
+2001,male,North America,Physics,2000
+1984,male,Europe,Physics,1980
+1996,male,Oceania,Peace,1990
+1936,male,South America,Peace,1930
+2009,female,North America,Physiology or Medicine,2000
+1950,male,Europe,Physics,1950
+1984,male,South America,Physiology or Medicine,1980
+1966,male,North America,Physiology or Medicine,1960
+1920,male,Europe,Physics,1920
+1925,male,North America,Peace,1920
+1917,male,Europe,Physics,1910
+1964,male,North America,Physics,1960
+1987,male,Asia,Chemistry,1980
+2009,male,Asia,Physics,2000
+1928,male,Europe,Physiology or Medicine,1920
+1913,male,Europe,Physiology or Medicine,1910
+1957,male,Asia,Physics,1950
+1929,male,Europe,Physiology or Medicine,1920
+1972,male,North America,Chemistry,1970
+1974,male,Europe,Physiology or Medicine,1970
+1921,male,Europe,Peace,1920
+1995,female,Europe,Physiology or Medicine,1990
+2010,male,Europe,Economic Sciences,2010
+2011,male,North America,Economic Sciences,2010
+1997,male,Africa,Physics,1990
+1985,male,Africa,Literature,1980
+1994,male,North America,Physics,1990
+1937,male,North America,Physics,1930
+2003,male,Europe,Economic Sciences,2000
+1945,male,North America,Peace,1940
+1938,male,Europe,Physiology or Medicine,1930
+2006,male,North America,Physiology or Medicine,2000
+1980,male,Europe,Literature,1980
+1976,male,North America,Physiology or Medicine,1970
+1961,male,Europe,Peace,1960
+2010,male,North America,Economic Sciences,2010
+2011,male,Asia,Chemistry,2010
+1957,male,Europe,Physiology or Medicine,1950
+1998,male,Asia,Physics,1990
+2002,male,Asia,Economic Sciences,2000
+2000,male,North America,Economic Sciences,2000
+1978,male,North America,Physiology or Medicine,1970
+1997,male,Europe,Literature,1990
+1975,male,North America,Physiology or Medicine,1970
+1981,male,North America,Physiology or Medicine,1980
+2004,male,North America,Physics,2000
+2016,male,Europe,Physics,2010
+2012,male,North America,Physics,2010
+1996,male,North America,Physics,1990
+1998,male,Europe,Peace,1990
+2018,male,Africa,Peace,2010
+1971,male,Europe,Physics,1970
+1969,male,Europe,Chemistry,1960
+1992,male,North America,Literature,1990
+1984,male,Africa,Peace,1980
+1956,male,North America,Physiology or Medicine,1950
+2019,male,Europe,Physics,2010
+1960,male,North America,Physics,1960
+1987,male,North America,Chemistry,1980
+2018,female,North America,Physics,2010
+2007,female,Asia,Literature,2000
+1964,female,Africa,Chemistry,1960
+1996,male,North America,Physics,1990
+1993,male,North America,Economic Sciences,1990
+1986,male,North America,Chemistry,1980
+1990,male,North America,Physiology or Medicine,1990
+1952,male,North America,Physics,1950
+1971,male,North America,Physiology or Medicine,1970
+1932,male,Europe,Physiology or Medicine,1930
+1992,male,Asia,Physiology or Medicine,1990
+2006,male,North America,Economic Sciences,2000
+1907,male,Europe,Chemistry,1900
+2014,male,Europe,Physiology or Medicine,2010
+1943,male,North America,Physiology or Medicine,1940
+1995,male,North America,Physiology or Medicine,1990
+1950,male,North America,Physiology or Medicine,1950
+2004,male,North America,Economic Sciences,2000
+1958,male,North America,Physiology or Medicine,1950
+1947,male,Europe,Physics,1940
+1992,male,North America,Physiology or Medicine,1990
+1951,male,North America,Chemistry,1950
+1949,male,Europe,Physiology or Medicine,1940
+2010,male,Asia,Chemistry,2010
+1974,male,Asia,Peace,1970
+2004,female,Europe,Literature,2000
+1981,male,Europe,Literature,1980
+1990,male,North America,Chemistry,1990
+1902,male,Europe,Peace,1900
+1986,male,Europe,Peace,1980
+1912,male,North America,Peace,1910
+2009,female,North America,Economic Sciences,2000
+2009,female,Oceania,Physiology or Medicine,2000
+2011,female,Africa,Peace,2010
+1902,male,Europe,Chemistry,1900
+1901,male,Europe,Physiology or Medicine,1900
+1959,male,Europe,Physics,1950
+1946,female,North America,Peace,1940
+1938,male,Europe,Physics,1930
+2014,male,North America,Chemistry,2010
+2001,male,North America,Physics,2000
+1995,male,North America,Physiology or Medicine,1990
+2000,male,Europe,Physiology or Medicine,2000
+2007,male,North America,Economic Sciences,2000
+1931,male,Europe,Literature,1930
+1954,male,North America,Literature,1950
+1939,male,North America,Physics,1930
+1908,male,Oceania,Chemistry,1900
+1951,male,Europe,Physics,1950
+1907,male,Europe,Peace,1900
+1945,male,Europe,Physiology or Medicine,1940
+1973,male,Europe,Chemistry,1970
+1986,male,Europe,Physics,1980
+1991,male,Europe,Physiology or Medicine,1990
+1933,male,Europe,Physics,1930
+2019,female,Europe,Economic Sciences,2010
+2013,male,North America,Economic Sciences,2010
+1936,male,North America,Literature,1930
+1963,male,Europe,Physics,1960
+1975,male,Europe,Literature,1970
+1974,male,Europe,Literature,1970
+2016,male,Europe,Physics,2010
+1995,male,North America,Chemistry,1990
+1993,male,Africa,Peace,1990
+1952,male,Europe,Physics,1950
+1964,male,Europe,Physiology or Medicine,1960
+1909,male,Europe,Physics,1900
+1927,male,Europe,Peace,1920
+1998,male,North America,Physiology or Medicine,1990
+2004,male,Europe,Economic Sciences,2000
+2018,female,North America,Chemistry,2010
+1962,male,Europe,Physiology or Medicine,1960
+1922,male,Europe,Chemistry,1920
+1985,male,Europe,Economic Sciences,1980
+2013,male,Europe,Physics,2010
+1965,male,Europe,Physiology or Medicine,1960
+1952,male,Europe,Literature,1950
+2008,female,Europe,Physiology or Medicine,2000
+1929,male,North America,Peace,1920
+2004,male,North America,Physics,2000
+1939,male,Europe,Literature,1930
+1935,male,Europe,Chemistry,1930
+1904,male,Europe,Literature,1900
+1901,male,Europe,Peace,1900
+1954,male,North America,Physiology or Medicine,1950
+1923,male,North America,Physiology or Medicine,1920
+1995,male,North America,Physics,1990
+1958,male,Europe,Chemistry,1950
+1921,male,Europe,Chemistry,1920
+1908,male,Europe,Peace,1900
+1922,male,Europe,Peace,1920
+1931,male,Europe,Chemistry,1930
+1974,male,Europe,Economic Sciences,1970
+1953,male,Europe,Physics,1950
+1918,male,Europe,Chemistry,1910
+1953,male,Europe,Physiology or Medicine,1950
+1923,male,Europe,Chemistry,1920
+1982,male,South America,Literature,1980
+1908,male,Europe,Physics,1900
+1945,female,South America,Literature,1940
+2000,male,Asia,Literature,2000
+1992,male,North America,Economic Sciences,1990
+1973,male,Europe,Chemistry,1970
+1961,male,Europe,Physiology or Medicine,1960
+1979,male,Europe,Chemistry,1970
+2001,male,North America,Economic Sciences,2000
+1994,male,Europe,Chemistry,1990
+1958,male,North America,Physiology or Medicine,1950
+1925,male,Europe,Literature,1920
+1953,male,North America,Peace,1950
+1980,male,North America,Physiology or Medicine,1980
+1943,male,Europe,Chemistry,1940
+1974,male,Europe,Physiology or Medicine,1970
+2009,male,North America,Physics,2000
+2006,male,North America,Physics,2000
+1988,male,North America,Physiology or Medicine,1980
+1934,male,North America,Physiology or Medicine,1930
+1982,male,North America,Economic Sciences,1980
+2018,male,North America,Chemistry,2010
+1937,male,Europe,Physics,1930
+1967,male,Europe,Chemistry,1960
+1934,male,North America,Physiology or Medicine,1930
+1967,male,North America,Physiology or Medicine,1960
+1992,male,Europe,Physics,1990
+1984,male,Europe,Physiology or Medicine,1980
+1958,male,Europe,Peace,1950
+1972,male,North America,Physiology or Medicine,1970
+1983,male,Europe,Economic Sciences,1980
+2018,male,Europe,Physics,2010
+1999,male,Europe,Physics,1990
+1986,male,Europe,Physics,1980
+1939,male,Europe,Physiology or Medicine,1930
+2007,male,Europe,Chemistry,2000
+1971,male,Europe,Chemistry,1970
+1912,male,Europe,Literature,1910
+1988,female,North America,Physiology or Medicine,1980
+1947,female,Europe,Physiology or Medicine,1940
+1963,male,Asia,Literature,1960
+1906,male,Europe,Literature,1900
+1963,male,Europe,Chemistry,1960
+1951,male,North America,Chemistry,1950
+1979,male,Europe,Physiology or Medicine,1970
+1926,female,Europe,Literature,1920
+2019,male,North America,Physiology or Medicine,2010
+1909,male,Europe,Physics,1900
+1974,male,Europe,Economic Sciences,1970
+1999,male,Europe,Physiology or Medicine,1990
+1999,male,Europe,Literature,1990
+1912,male,Europe,Physics,1910
+1925,male,Europe,Physics,1920
+1926,male,Europe,Peace,1920
+2004,male,North America,Physics,2000
+1968,male,Asia,Physiology or Medicine,1960
+2002,male,North America,Physiology or Medicine,2000
+1955,male,Europe,Literature,1950
+1978,male,North America,Physiology or Medicine,1970
+1970,male,Europe,Physics,1970
+1967,male,Europe,Physics,1960
+1930,male,Europe,Chemistry,1930
+1989,male,Europe,Physics,1980
+1953,male,Europe,Physiology or Medicine,1950
+1935,male,Europe,Physiology or Medicine,1930
+1929,male,Europe,Chemistry,1920
+2008,male,Europe,Physiology or Medicine,2000
+1934,male,North America,Chemistry,1930
+1989,male,North America,Physiology or Medicine,1980
+2005,male,Europe,Literature,2000
+1990,male,North America,Economic Sciences,1990
+1974,male,Europe,Literature,1970
+1988,male,Europe,Chemistry,1980
+1913,male,Europe,Physics,1910
+1972,male,Europe,Literature,1970
+1986,male,Europe,Physics,1980
+1927,male,Europe,Chemistry,1920
+1902,male,Europe,Physics,1900
+1903,male,Europe,Physics,1900
+1927,male,Europe,Literature,1920
+1913,male,Europe,Peace,1910
+1906,male,Europe,Chemistry,1900
+1943,male,Europe,Physiology or Medicine,1940
+1917,male,Europe,Literature,1910
+1901,male,Europe,Peace,1900
+1973,male,Europe,Peace,1970
+1983,male,North America,Chemistry,1980
+1990,male,North America,Physics,1990
+1905,male,Europe,Literature,1900
+1985,male,North America,Chemistry,1980
+1979,male,Europe,Chemistry,1970
+2000,male,Europe,Physics,2000
+1944,male,North America,Physiology or Medicine,1940
+1978,male,North America,Economic Sciences,1970
+1946,male,Europe,Literature,1940
+1946,male,North America,Physiology or Medicine,1940
+1953,male,Europe,Chemistry,1950
+2009,female,Europe,Literature,2000
+2000,male,Asia,Chemistry,2000
+1949,male,Asia,Physics,1940
+2014,male,Asia,Physics,2010
+1921,male,Europe,Peace,1920
+1998,male,Europe,Physics,1990
+1975,male,North America,Physiology or Medicine,1970
+1955,male,Europe,Physiology or Medicine,1950
+1958,male,Europe,Physics,1950
+1958,male,Europe,Physics,1950
+1908,male,Europe,Physiology or Medicine,1900
+1977,male,Europe,Chemistry,1970
+2002,male,Europe,Literature,2000
+1935,female,Europe,Chemistry,1930
+1932,male,North America,Chemistry,1930
+2004,male,North America,Chemistry,2000
+1978,male,Europe,Literature,1970
+2014,male,Asia,Physics,2010
+1944,male,Europe,Physics,1940
+1933,male,Europe,Literature,1930
+1904,male,Europe,Physiology or Medicine,1900
+1973,male,Europe,Physics,1970
+1961,male,Europe,Literature,1960
+1987,male,Europe,Physics,1980
+1963,male,Europe,Physics,1960
+2003,male,Africa,Literature,2000
+1989,male,North America,Physiology or Medicine,1980
+2016,male,Europe,Physics,2010
+2005,male,Oceania,Physiology or Medicine,2000
+1906,male,Europe,Physics,1900
+1922,male,Europe,Literature,1920
+2000,male,North America,Physics,2000
+1988,male,Europe,Physics,1980
+2009,male,Europe,Physiology or Medicine,2000
+1901,male,Europe,Chemistry,1900
+2017,male,Europe,Chemistry,2010
+1965,male,Europe,Physiology or Medicine,1960
+1996,male,Europe,Economic Sciences,1990
+1946,male,North America,Chemistry,1940
+1935,male,Europe,Physics,1930
+1980,male,North America,Physics,1980
+1977,male,Europe,Economic Sciences,1970
+2013,male,North America,Physiology or Medicine,2010
+1925,male,Europe,Physics,1920
+2000,male,North America,Economic Sciences,2000
+1986,male,North America,Economic Sciences,1980
+2018,male,North America,Physiology or Medicine,2010
+2019,male,North America,Physics,2010
+1975,male,North America,Physics,1970
+1981,male,North America,Economic Sciences,1980
+1962,male,North America,Physiology or Medicine,1960
+1969,male,Europe,Economic Sciences,1960
+1931,female,North America,Peace,1930
+1959,male,Europe,Chemistry,1950
+1984,male,Europe,Literature,1980
+1926,male,Europe,Physics,1920
+1980,male,Europe,Physiology or Medicine,1980
+2014,male,Europe,Economic Sciences,2010
+2008,male,Europe,Literature,2000
+1987,male,Europe,Chemistry,1980
+1964,male,Europe,Literature,1960
+2016,male,Europe,Chemistry,2010
+2017,male,North America,Physiology or Medicine,2010
+1997,male,Europe,Chemistry,1990
+1990,male,North America,Physics,1990
+1985,male,North America,Chemistry,1980
+2002,male,North America,Peace,2000
+2017,male,Europe,Chemistry,2010
+1997,female,North America,Peace,1990
+1988,male,Europe,Chemistry,1980
+1910,male,Europe,Physics,1910
+1926,male,Europe,Physiology or Medicine,1920
+1919,male,Europe,Physics,1910
+1944,male,Europe,Literature,1940
+2002,male,North America,Chemistry,2000
+2019,male,Europe,Chemistry,2010
+1956,male,North America,Physics,1950
+1994,male,Europe,Economic Sciences,1990
+1962,male,Europe,Chemistry,1960
+2006,male,North America,Physics,2000
+1986,male,Europe,Chemistry,1980
+1951,male,Europe,Physics,1950
+1975,male,Oceania,Chemistry,1970
+2002,male,Europe,Physiology or Medicine,2000
+1997,male,Europe,Chemistry,1990
+1954,male,North America,Physiology or Medicine,1950
+1994,male,North America,Economic Sciences,1990
+1932,male,Europe,Literature,1930
+1946,male,North America,Chemistry,1940
+1977,male,North America,Physics,1970
+1998,male,Europe,Peace,1990
+2005,male,North America,Physics,2000
+1923,male,Europe,Physiology or Medicine,1920
+2014,male,North America,Physiology or Medicine,2010
+1998,male,Europe,Chemistry,1990
+1972,male,Europe,Economic Sciences,1970
+1946,male,North America,Peace,1940
+1982,male,Europe,Physiology or Medicine,1980
+1962,male,North America,Literature,1960
+1904,male,Europe,Literature,1900
+1996,male,Oceania,Peace,1990
+1998,male,Europe,Literature,1990
+1987,male,Europe,Literature,1980
+1990,male,North America,Physiology or Medicine,1990
+2001,male,North America,Economic Sciences,2000
+1944,male,North America,Physiology or Medicine,1940
+1993,male,North America,Physics,1990
+1985,male,North America,Physiology or Medicine,1980
+1995,male,Europe,Peace,1990
+1958,male,North America,Physiology or Medicine,1950
+2016,male,South America,Peace,2010
+1956,male,Europe,Literature,1950
+2011,male,Europe,Physiology or Medicine,2010
+1919,male,Europe,Physiology or Medicine,1910
+1965,male,North America,Physics,1960
+1970,male,North America,Physiology or Medicine,1970
+1927,male,Europe,Physiology or Medicine,1920
+1987,male,Europe,Physics,1980
+1981,male,Europe,Physics,1980
+2014,male,Asia,Peace,2010
+1917,male,Europe,Literature,1910
+1930,male,Europe,Physiology or Medicine,1930
+1973,male,Europe,Physiology or Medicine,1970
+1963,male,Europe,Chemistry,1960
+1993,male,North America,Chemistry,1990
+2017,male,Asia,Literature,2010
+1967,male,North America,Physiology or Medicine,1960
+1981,male,Asia,Chemistry,1980
+1982,male,North America,Physics,1980
+1972,male,North America,Economic Sciences,1970
+1994,male,Asia,Literature,1990
+2000,male,Asia,Peace,2000
+2017,male,North America,Physics,2010
+1908,male,Europe,Peace,1900
+1985,male,Europe,Physics,1980
+1920,male,Europe,Literature,1920
+2001,male,Africa,Peace,2000
+2002,male,Asia,Chemistry,2000
+1964,male,Europe,Physiology or Medicine,1960
+1973,male,Europe,Physiology or Medicine,1970
+2010,male,Europe,Physics,2010
+1950,male,Europe,Chemistry,1950
+2002,male,Europe,Chemistry,2000
+1968,male,Europe,Chemistry,1960
+2013,male,North America,Economic Sciences,2010
+1915,male,Oceania,Physics,1910
+1980,male,North America,Economic Sciences,1980
+1973,male,Asia,Peace,1970
+1983,male,Europe,Peace,1980
+2001,male,North America,Physiology or Medicine,2000
+1973,male,Asia,Physics,1970
+1920,male,Europe,Peace,1920
+1951,male,Europe,Peace,1950
+1988,male,North America,Physics,1980
+1972,male,North America,Physics,1970
+2007,male,Europe,Economic Sciences,2000
+1975,male,Europe,Economic Sciences,1970
+1939,male,Europe,Chemistry,1930
+1957,male,North America,Peace,1950
+1962,male,Asia,Physics,1960
+2011,female,Africa,Peace,2010
+2004,female,North America,Physiology or Medicine,2000
+1962,male,North America,Peace,1960
+2010,male,Asia,Peace,2010
+2012,male,North America,Economic Sciences,2010
+1949,male,Europe,Peace,1940
+1904,male,Europe,Physics,1900
+1957,male,Europe,Chemistry,1950
+1929,male,Europe,Physics,1920
+1998,male,North America,Physiology or Medicine,1990
+1970,male,Europe,Physics,1970
+1907,male,Europe,Peace,1900
+2008,male,Europe,Physiology or Medicine,2000
+1927,male,Europe,Peace,1920
+1934,male,Europe,Literature,1930
+1968,male,North America,Physics,1960
+1970,male,Europe,Chemistry,1970
+2019,male,Europe,Chemistry,2010
+1976,female,Europe,Peace,1970
+2008,male,Asia,Physics,2000
+2014,female,Asia,Peace,2010
+1967,male,Europe,Chemistry,1960
+1924,male,Europe,Physics,1920
+1963,female,Europe,Physics,1960
+1903,female,Europe,Physics,1900
+1995,male,North America,Chemistry,1990
+2007,male,Europe,Physiology or Medicine,2000
+2010,male,South America,Literature,2010
+1968,male,North America,Physiology or Medicine,1960
+2008,male,North America,Chemistry,2000
+2013,male,Europe,Chemistry,2010
+1995,male,North America,Physics,1990
+1964,male,North America,Peace,1960
+1994,male,North America,Physiology or Medicine,1990
+1974,male,Europe,Physics,1970
+1999,male,Europe,Physics,1990
+2008,male,Europe,Peace,2000
+2002,male,Asia,Physics,2000
+1988,male,Europe,Economic Sciences,1980
+1911,male,Europe,Literature,1910
+1962,male,Oceania,Physiology or Medicine,1960
+1954,male,Europe,Physics,1950
+1969,male,Europe,Physiology or Medicine,1960
+1962,male,Europe,Chemistry,1960
+1918,male,Europe,Physics,1910
+1951,male,Africa,Physiology or Medicine,1950
+1914,male,Europe,Physics,1910
+2014,female,Europe,Physiology or Medicine,2010
+1961,male,North America,Chemistry,1960
+1988,male,North America,Physics,1980
+1978,male,Europe,Peace,1970
+1990,male,North America,Economic Sciences,1990
+2019,male,North America,Economic Sciences,2010
+2013,male,Africa,Chemistry,2010
+2017,male,North America,Physiology or Medicine,2010
+1985,male,North America,Physiology or Medicine,1980
+1993,male,Europe,Chemistry,1990
+2017,male,North America,Physiology or Medicine,2010
+2019,male,Europe,Physics,2010
+1967,male,North America,Literature,1960
+1990,male,Europe,Peace,1990
+1965,male,Europe,Literature,1960
+1976,male,North America,Economic Sciences,1970
+2012,male,Asia,Literature,2010
+2005,male,Africa,Peace,2000
+1979,female,Europe,Peace,1970
+2006,male,Asia,Peace,2000
+1969,male,North America,Physics,1960
+1997,male,North America,Economic Sciences,1990
+2018,female,Asia,Peace,2010
+1991,female,Africa,Literature,1990
+1988,male,Africa,Literature,1980
+1930,male,Europe,Peace,1930
+1966,female,Europe,Literature,1960
+1993,male,Africa,Peace,1990
+1931,male,North America,Peace,1930
+1981,male,Europe,Physics,1980
+1964,male,Europe,Physics,1960
+1922,male,Europe,Physics,1920
+1984,male,Europe,Physiology or Medicine,1980
+1903,male,Europe,Physiology or Medicine,1900
+1973,male,Europe,Physiology or Medicine,1970
+1956,male,Europe,Chemistry,1950
+1970,male,North America,Peace,1970
+1989,male,North America,Physics,1980
+1937,male,Europe,Chemistry,1930
+1990,male,North America,Literature,1990
+1969,male,Europe,Chemistry,1960
+1979,male,Europe,Literature,1970
+2018,female,Europe,Literature,2010
+2009,male,North America,Economic Sciences,2000
+2016,male,Europe,Economic Sciences,2010
+2007,male,Europe,Physiology or Medicine,2000
+2006,male,Asia,Literature,2000
+2008,male,Asia,Chemistry,2000
+1987,male,North America,Peace,1980
+1950,male,Europe,Chemistry,1950
+1944,male,Europe,Chemistry,1940
+1936,male,Europe,Physiology or Medicine,1930
+1922,male,Europe,Physiology or Medicine,1920
+1943,male,Europe,Physics,1940
+1910,male,Europe,Chemistry,1910
+1931,male,Europe,Physiology or Medicine,1930
+1959,male,North America,Physics,1950
+1928,male,Europe,Physics,1920
+1971,male,South America,Literature,1970
+1951,male,Europe,Literature,1950
+1948,male,Europe,Physics,1940
+2014,male,Europe,Literature,2010
+1973,male,Europe,Literature,1970
+1970,male,North America,Economic Sciences,1970
+1933,male,Europe,Physics,1930
+1980,male,North America,Chemistry,1980
+2003,male,North America,Physiology or Medicine,2000
+1997,male,North America,Chemistry,1990
+1908,male,Europe,Physiology or Medicine,1900
+2000,male,North America,Physiology or Medicine,2000
+1909,male,Europe,Peace,1900
+1910,male,Europe,Literature,1910
+1995,male,Europe,Chemistry,1990
+1974,male,North America,Chemistry,1970
+1937,male,Europe,Chemistry,1930
+2008,male,North America,Economic Sciences,2000
+2018,male,North America,Economic Sciences,2010
+2015,male,North America,Chemistry,2010
+1948,male,Europe,Physiology or Medicine,1940
+1912,male,Europe,Chemistry,1910
+1958,male,Europe,Physics,1950
+1938,female,North America,Literature,1930
+1946,male,North America,Physics,1940
+2010,male,North America,Economic Sciences,2010
+2003,male,North America,Chemistry,2000
+1996,male,Oceania,Physiology or Medicine,1990
+1936,male,Europe,Chemistry,1930
+2007,male,Europe,Physics,2000
+2019,male,Europe,Literature,2010
+2013,male,Europe,Physics,2010
+1960,male,South America,Physiology or Medicine,1960
+1978,male,Europe,Chemistry,1970
+1966,male,North America,Physiology or Medicine,1960
+1959,male,Europe,Peace,1950
+1950,male,North America,Physiology or Medicine,1950
+1977,male,North America,Physics,1970
+1905,male,Europe,Physics,1900
+1993,male,North America,Physiology or Medicine,1990
+1903,male,Europe,Physics,1900
+1991,male,Europe,Physics,1990
+1902,male,Europe,Physics,1900
+1955,male,Europe,Physics,1950
+1978,male,Europe,Physics,1970
+1913,male,Asia,Literature,1910
+1969,male,Europe,Economic Sciences,1960
+1967,male,Europe,Physiology or Medicine,1960
+2017,male,Europe,Physics,2010
+1950,male,North America,Peace,1950
+2011,male,North America,Physiology or Medicine,2010
+1903,male,Europe,Peace,1900
+2013,male,North America,Physiology or Medicine,2010
+2002,male,North America,Physics,2000
+1994,male,Europe,Economic Sciences,1990
+1975,male,Europe,Physiology or Medicine,1970
+1968,male,Europe,Peace,1960
+2002,male,Europe,Physics,2000
+2004,male,North America,Physiology or Medicine,2000
+1996,male,North America,Chemistry,1990
+1990,male,North America,Physics,1990
+2010,male,North America,Chemistry,2010
+2017,male,North America,Economic Sciences,2010
+2017,male,Europe,Chemistry,2010
+1993,male,Europe,Physiology or Medicine,1990
+1938,male,Europe,Chemistry,1930
+1952,male,Europe,Chemistry,1950
+1965,male,North America,Physics,1960
+1991,male,Europe,Chemistry,1990
+2005,male,North America,Chemistry,2000
+1984,male,Europe,Economic Sciences,1980
+1915,male,Europe,Chemistry,1910
+1925,male,Europe,Chemistry,1920
+1992,female,North America,Peace,1990
+1986,female,Europe,Physiology or Medicine,1980
+1981,male,Europe,Chemistry,1980
+1923,male,North America,Physics,1920
+1998,male,North America,Physics,1990
+1965,male,North America,Chemistry,1960
+1914,male,Europe,Physiology or Medicine,1910
+1997,male,North America,Economic Sciences,1990
+1996,male,North America,Physics,1990
+1937,male,Europe,Peace,1930
+1995,male,North America,Economic Sciences,1990
+1996,male,North America,Chemistry,1990
+2003,male,North America,Economic Sciences,2000
+1998,male,North America,Physiology or Medicine,1990
+2010,male,Europe,Physiology or Medicine,2010
+2005,male,North America,Chemistry,2000
+1961,male,North America,Physics,1960
+1988,male,Europe,Chemistry,1980
+2005,male,Europe,Economic Sciences,2000
+2012,male,North America,Chemistry,2010
+2013,male,North America,Economic Sciences,2010
+1905,male,Europe,Physiology or Medicine,1900
+1987,male,North America,Economic Sciences,1980
+1999,male,North America,Economic Sciences,1990
+1966,male,North America,Chemistry,1960
+1972,male,North America,Physics,1970
+1993,male,North America,Economic Sciences,1990
+1968,male,North America,Physiology or Medicine,1960
+1978,male,North America,Physics,1970
+2003,male,North America,Chemistry,2000
+1972,male,Europe,Physiology or Medicine,1970
+2007,male,North America,Economic Sciences,2000
+2006,male,North America,Chemistry,2000
+1977,male,Europe,Physiology or Medicine,1970
+1937,male,Europe,Literature,1930
+1981,male,North America,Physiology or Medicine,1980
+2008,male,North America,Chemistry,2000
+1996,male,Europe,Physiology or Medicine,1990
+1915,male,Europe,Literature,1910
+1967,male,Europe,Chemistry,1960
+1991,male,Europe,Economic Sciences,1990
+1902,male,Asia,Physiology or Medicine,1900
+1977,female,North America,Physiology or Medicine,1970
+2005,male,North America,Physics,2000
+1908,male,Europe,Literature,1900
+1961,male,Europe,Physics,1960
+1992,male,North America,Chemistry,1990
+1907,male,Asia,Literature,1900
+1993,male,North America,Physics,1990
+2001,male,Asia,Chemistry,2000
+1960,male,North America,Literature,1960
+1969,male,Europe,Physiology or Medicine,1960
+1959,male,Europe,Literature,1950
+1969,male,Europe,Literature,1960
+1976,male,North America,Physics,1970
+1906,male,Europe,Physiology or Medicine,1900
+2015,male,Asia,Physiology or Medicine,2010
+1976,male,North America,Literature,1970
+2011,male,North America,Physics,2010
+1995,male,Europe,Literature,1990
+1974,male,Europe,Peace,1970
+1909,female,Europe,Literature,1900
+1952,male,Europe,Physiology or Medicine,1950
+2012,male,Africa,Physics,2010
+1959,male,Europe,Physiology or Medicine,1950
+1979,male,North America,Physics,1970
+1994,male,Europe,Peace,1990
+2012,male,Asia,Physiology or Medicine,2010
+2003,female,Asia,Peace,2000
+1966,male,Europe,Literature,1960
+2014,male,Asia,Physics,2010
+1989,male,North America,Chemistry,1980
+1928,female,Europe,Literature,1920
+1971,male,Europe,Economic Sciences,1970
+1984,male,Europe,Physics,1980
+1965,male,Asia,Physics,1960
+1930,male,North America,Literature,1930
+1945,male,Europe,Physiology or Medicine,1940
+1979,male,North America,Economic Sciences,1970
+1925,male,Europe,Peace,1920
+1970,male,Europe,Physiology or Medicine,1970
+1930,male,Asia,Physics,1930
+1932,male,Europe,Physiology or Medicine,1930
+1956,male,Europe,Chemistry,1950
+1960,male,Oceania,Physiology or Medicine,1960
+1929,male,Europe,Physiology or Medicine,1920
+2018,male,Europe,Chemistry,2010
+1996,male,Europe,Chemistry,1990
+1936,male,Europe,Physiology or Medicine,1930
+1945,male,Oceania,Physiology or Medicine,1940
+2016,male,Europe,Chemistry,2010
+1988,male,Europe,Physiology or Medicine,1980
+2012,male,Europe,Physiology or Medicine,2010
+1963,male,Oceania,Physiology or Medicine,1960
+2007,male,Europe,Physiology or Medicine,2000
+1977,male,Europe,Physics,1970
+1933,male,Europe,Peace,1930
+2001,male,Europe,Physiology or Medicine,2000
+2019,male,Europe,Physiology or Medicine,2010
+2003,male,Europe,Physiology or Medicine,2000
+1947,male,Europe,Chemistry,1940
+1904,male,Europe,Chemistry,1900
+1972,male,North America,Chemistry,1970
+1997,male,North America,Physiology or Medicine,1990
+1986,male,North America,Physiology or Medicine,1980
+2014,male,Europe,Chemistry,2010
+1997,male,North America,Physics,1990
+1979,male,North America,Physics,1970
+1983,male,Asia,Physics,1980
+1901,male,Europe,Literature,1900
+1982,male,Europe,Physiology or Medicine,1980
+1987,male,Asia,Physiology or Medicine,1980
+1903,male,Europe,Chemistry,1900
+2015,female,Europe,Literature,2010
+2002,male,Africa,Physiology or Medicine,2000
+1948,male,North America,Literature,1940
+1950,male,Europe,Physiology or Medicine,1950
+2015,male,Asia,Physics,2010
+2018,male,Asia,Physiology or Medicine,2010
+2011,female,Asia,Peace,2010
+1989,male,Asia,Peace,1980
+1926,male,Europe,Chemistry,1920
+1909,male,Europe,Physiology or Medicine,1900
+1902,male,Europe,Literature,1900
+2005,male,Europe,Physics,2000
+1906,male,North America,Peace,1900
+1914,male,North America,Chemistry,1910
+1979,male,North America,Economic Sciences,1970
+2009,male,North America,Chemistry,2000
+2005,male,North America,Economic Sciences,2000
+2013,male,Europe,Physiology or Medicine,2010
+1933,male,North America,Physiology or Medicine,1930
+1954,male,North America,Physiology or Medicine,1950
+2011,male,North America,Economic Sciences,2010
+1929,male,Europe,Literature,1920
+1989,male,North America,Chemistry,1980
+2001,male,Europe,Physiology or Medicine,2000
+1975,male,Europe,Economic Sciences,1970
+1911,male,Europe,Peace,1910
+2015,male,Europe,Chemistry,2010
+2011,male,Europe,Literature,2010
+1993,female,North America,Literature,1990
+1981,male,Europe,Physiology or Medicine,1980
+2008,male,Asia,Physics,2000
+1989,male,Europe,Economic Sciences,1980
+1957,male,Asia,Physics,1950
+2015,female,Asia,Physiology or Medicine,2010
+1970,male,Europe,Physiology or Medicine,1970
+2001,male,North America,Literature,2000
+1980,male,North America,Physics,1980
+2009,male,Asia,Chemistry,2000
+1916,male,Europe,Literature,1910
+2002,male,North America,Economic Sciences,2000
+1977,male,Europe,Literature,1970
+1936,male,Europe,Physics,1930
+1912,male,Europe,Chemistry,1910
+1955,male,North America,Chemistry,1950
+2003,male,Europe,Physics,2000
+1975,male,Europe,Chemistry,1970
+1980,male,North America,Chemistry,1980
+1956,male,Asia,Physics,1950
+1949,male,Europe,Physiology or Medicine,1940
+1998,male,Europe,Chemistry,1990
+1954,male,Europe,Physics,1950
+1920,male,Europe,Chemistry,1920
+2004,female,Africa,Peace,2000
+1973,male,Europe,Economic Sciences,1970
+1946,male,North America,Chemistry,1940
+1978,male,Europe,Physiology or Medicine,1970
+1956,male,Europe,Physiology or Medicine,1950
+1932,male,Europe,Physics,1930
+1901,male,Europe,Physics,1900
+1909,male,Europe,Chemistry,1900
+1911,male,Europe,Physics,1910
+1960,male,North America,Chemistry,1960
+2009,male,North America,Physics,2000
+1924,male,Asia,Physiology or Medicine,1920
+1983,male,North America,Physics,1980
+1956,male,Europe,Physics,1950
+1915,male,Europe,Physics,1910
+1923,male,Europe,Literature,1920
+2015,male,Europe,Physiology or Medicine,2010
+2018,male,North America,Economic Sciences,2010
+1997,male,North America,Physics,1990
+2014,male,North America,Chemistry,2010
+1949,male,North America,Chemistry,1940
+1990,male,North America,Economic Sciences,1990
+1949,male,North America,Literature,1940
+2019,male,North America,Physiology or Medicine,2010
+1983,male,Europe,Literature,1980
+1972,male,North America,Chemistry,1970
+2001,male,North America,Chemistry,2000
+1976,male,North America,Chemistry,1970
+1934,male,North America,Physiology or Medicine,1930
+1996,male,North America,Economic Sciences,1990
+1955,male,North America,Physics,1950
+1971,male,Europe,Peace,1970
+1953,male,Europe,Literature,1950
+1996,female,Europe,Literature,1990
+1924,male,Europe,Literature,1920
+1986,male,Africa,Literature,1980
+2001,male,Europe,Physics,2000
+1989,male,Europe,Physics,1980
+1945,male,Europe,Physics,1940
+1919,male,North America,Peace,1910
+1994,male,Africa,Peace,1990
+1968,male,Asia,Literature,1960
+1994,male,Asia,Peace,1990
+2008,male,Asia,Physics,2000
+2016,male,Asia,Physiology or Medicine,2010
+1986,male,Asia,Chemistry,1980
+2005,male,Europe,Chemistry,2000
+2000,male,Europe,Physics,2000
+1980,male,Europe,Chemistry,1980
+1972,male,North America,Physics,1970
+1954,male,North America,Chemistry,1950
+1911,female,Europe,Chemistry,1910

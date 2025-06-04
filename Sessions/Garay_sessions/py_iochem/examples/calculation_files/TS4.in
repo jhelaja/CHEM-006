@@ -1,0 +1,18 @@
+%chk=ts5_batch8
+%mem=1GB
+#b3lyp/sto-3g 
+opt=(ts,noeigentest,calcfc,noraman) freq=noraman 
+temperature=298
+IOP(2/17=4) 
+
+ts search
+
+0 1
+C 0.315764 0.525974 -0.006766
+O 1.248847 -0.270994 -0.006521
+O -1.235906 -0.129990 -0.107724
+H -0.750697 0.987658 0.409874
+H -1.247412 -0.935638 0.544681
+ 
+
+
