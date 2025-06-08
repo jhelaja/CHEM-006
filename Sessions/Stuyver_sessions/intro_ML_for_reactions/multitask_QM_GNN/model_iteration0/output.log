@@ -1,0 +1,98 @@
+2025-03-19 16:30:42,836 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 16:30:45,574 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 16:31:33,361 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 16:31:35,857 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 16:32:31,241 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 16:32:33,730 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 18:18:40,259 - model_iteration0 - INFO - Training of model 0 started...
+2025-03-19 18:18:40,261 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 18:18:40,341 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 18:18:40,341 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 18:35:44,330 - model_iteration0 - INFO - Training of model 1 started...
+2025-03-19 18:35:44,333 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 18:35:44,408 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 18:35:44,408 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 19:39:30,529 - model_iteration0 - INFO - Training of model 2 started...
+2025-03-19 19:39:30,531 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 19:39:30,604 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 19:39:30,604 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 19:54:58,837 - model_iteration0 - INFO - Training of model 3 started...
+2025-03-19 19:54:58,840 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 19:54:59,002 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 19:54:59,002 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 20:10:27,618 - model_iteration0 - INFO - Training of model 4 started...
+2025-03-19 20:10:27,622 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 20:10:27,701 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 20:10:27,701 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 21:20:25,401 - model_iteration0 - INFO - Training of model 5 started...
+2025-03-19 21:20:25,404 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 21:20:25,644 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 21:20:25,644 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 21:36:23,490 - model_iteration0 - INFO - Training of model 6 started...
+2025-03-19 21:36:23,492 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 21:36:23,566 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 21:36:23,566 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 21:51:52,779 - model_iteration0 - INFO - Training of model 7 started...
+2025-03-19 21:51:52,784 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 21:51:52,871 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 21:51:52,871 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:04:42,515 - model_iteration0 - INFO - Training of model 8 started...
+2025-03-19 22:04:42,517 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 22:04:42,598 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:04:42,598 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:18:03,020 - model_iteration0 - INFO - Training of model 9 started...
+2025-03-19 22:18:03,022 - model_iteration0 - INFO -  Size train set: 5002 - size validation set: 263 - size test set: 0
+2025-03-19 22:18:03,102 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:18:03,102 - model_iteration0 - INFO - The considered reaction-level descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:35:26,625 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:35:29,192 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:35:58,395 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:36:00,869 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:36:30,059 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:36:32,542 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:37:01,569 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:37:04,051 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:37:33,309 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:37:35,786 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:38:05,111 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:38:07,615 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:38:37,398 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:38:39,891 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:39:09,655 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:39:12,131 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:39:42,162 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:39:44,648 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-03-19 22:40:14,129 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-03-19 22:40:16,640 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:39:49,566 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:39:53,722 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:41:09,950 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:41:14,116 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:42:31,190 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:42:35,365 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:43:52,070 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:43:56,264 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:45:13,994 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:45:18,268 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:46:36,412 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:46:40,653 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:09,399 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:13,548 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:14,711 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:18,830 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:19,713 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:23,905 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:24,800 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:28,948 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:29,929 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:34,098 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:34,998 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:39,165 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:40,053 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:44,213 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:45,111 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:49,344 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:50,240 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:54,442 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
+2025-06-08 14:48:55,470 - model_iteration0 - INFO - The considered atom-level descriptors are: ['partial_charge', 'fukui_elec', 'fukui_neu', 'nmr']
+2025-06-08 14:48:59,640 - model_iteration0 - INFO - The considered reaction descriptors are: ['G', 'G_alt1', 'G_alt2']
