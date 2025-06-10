@@ -1,0 +1,4 @@
+Fix xTB issue:
+1. Activate Thijs environment
+2. Execute this command:
+conda install conda-forge::libgfortran=14.2.0
